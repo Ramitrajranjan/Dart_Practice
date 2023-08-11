@@ -18,7 +18,8 @@ void main(){
   //inheritance:performed by extends keyword,
   // which can be observed below class Cat is extending the Animal class.
 
-  //encpsulation: wrapping data and methods under a same name e.g.- Class. 
+  //encpsulation:like a capsule here we perform
+  // wrapping data and methods under a same name e.g.- Class. 
 
 }
 
