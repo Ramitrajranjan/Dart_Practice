@@ -15,6 +15,11 @@ void main(){
   animal=Dog();
   animal.sound();
 
+  //inheritance:performed by extends keyword,
+  // which can be observed below class Cat is extending the Animal class.
+
+  //encpsulation: wrapping data and methods under a same name e.g.- Class. 
+
 }
 
 abstract class Animal{
